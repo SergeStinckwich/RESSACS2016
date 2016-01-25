@@ -1,3 +1,26 @@
+<h2 class="section-title">Comité d'organisation</h2>
+<ol>
+  <li>
+    <p>Christophe Cambier, <a href="http://www.ummisco.ird.fr/">UMI UMMISCO</a>, <a href="http://www.ird.fr">IRD</a>/<a href="http://upmc.fr/">UPMC</a>, France</p>
+  </li>
+  <li>
+    <p>Nicolas Marilleau, <a href="http://www.ummisco.ird.fr/">UMI UMMISCO</a>, <a href="http://www.ird.fr">IRD</a>/<a href="http://upmc.fr/">UPMC</a>, France</p>
+  </li>
+  <li>
+    <p><a href="">Bertrand Granado</a>, LIP6, <a href="">Université Pierre et Marie Curie(UPMC)</a>, France</p>
+  </li>
+  <li>
+    <p><a href="http://web.univ-pau.fr/~cpham/">Congduc Pham</a>, LIUPPA/T2I, <a href="http://www.univ-pau.fr/">Université de Pau et des Pays de l’Adour (UPPA)</a>, France</p>
+  </li>
+  <li>
+    <p>Bernard Pottier, LabSTICC, <a href="http://www.univ-brest.fr/">Université de Bretagne Occidentale (UBO)</a>, France</p>
+  </li>
+  <li>
+    <p><a href="http://www.doesnotunderstand.org/">Serge Stinckwich</a>, <a href="http://www.ummisco.ird.fr/">UMI UMMISCO</a>, <a href="http://www.ird.fr">IRD</a>/<a href="http://upmc.fr/">UPMC</a>, France</p>
+  </li>
+</ol>
+
+
 <h2 class="section-title"><%= @labels['speakers'] %></h2>
 
 <ul class="speakers-list">
