@@ -1,6 +1,16 @@
+<p><b>Précédentes éditions : <a href="http://liuppa.univ-pau.fr/RESSACS">2010</a>, <a href="http://web.univ-pau.fr/~cpham/iWEB/RESSACS2011">2011</a>, <a href="http://web.univ-pau.fr/~cpham/iWEB/RESSACS2012">2012</a>, <a href="http://web.univ-pau.fr/~cpham/iWEB/RESSACS2013">2013</a> et <a href="http://www.doesnotunderstand.org/RESSACS2014/">2014</a></b></p>
+
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">So you want to organize a conference? That's pretty awesome! But we know that you don't have time to create the website, since you have to worry about contacting sponsors, chossing the right place, buying airplane tickets for speakers and many other things.</p>
 
-<p>That's why we created this project! <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> is an iniciative of <a href="http://braziljs.org">BrazilJS Foundation</a> that provides a simple structure built on top of Docpad, a static generator in NodeJS, with all the things you need to create a event. We also provide a responsive template with i18n!</p>
+<p itemprop="description">
+Les réseaux de capteurs autonomes sans fils permettent de mesurer et/ou de capturer des  données concernant l’environnement immédiat, et potentiellement sur une large échelle. Ces réseaux de capteurs soulèvent un intérêt grandissant de la part des industriels ou d’organisations civiles où la surveillance et la reconnaissance de phénomène physique est une priorité. Citons parmi les applications possibles celles concernant l’environnement (agriculture, eau, forêt, incendies, pollutions, ...) et la ville urbaine, la santé (personnes agées, veille sanitaire dans les troupeaux), la réponse aux catastrophes (tremblements de terre, inondations), la surveillance de processus et/ou de sites industriels et d’ouvrages de génie civil.
+</p>
 
-<p>This is just a live demo, check our <a href="https://github.com/braziljs/conf-boilerplate">repository on Github</a> for more details =D</p>
+<p>Les événements et catastrophes récents montrent que ces réseaux de surveillance peuvent avoir un rôle très important pour la prévention, mais aussi pour l’organisation des secours et le suivi après catastrophe de l’évolution des phénomènes. Dans ces cas, l’interaction entre plusieurs réseaux et/ou technologies de surveillance est également souhaitable : robots, drônes, smartphones, ...</p>
+
+<p>Cette école internationale a pour objectifs :</p
+<ul>
+<li><p>de permettre la rencontre entre les personnes intéressées par la recherche et l'utilisation des réseaux de capteurs pour des applications de surveillance où les aspects liés à la criticité de l’application finale sont très importants,</p></li>
+<li><p>de présenter, à travers des exposés tutoriaux et de recherche, l'état de l'art, les applications et les réalisations réelles, ainsi que les différentes thématiques et problématiques scientifiques dans ce domaine.</p></li>
+</ul></p>
+<p><b>Les équipes intervenant sur des problématiques industrielles et académiques des aspects critiques des applications de surveillance sont conviées à présenter leur travaux dans ce cadre coopératif.</b></p>

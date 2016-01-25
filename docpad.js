@@ -7,34 +7,29 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Conference name",
-      description: "Conference description",
-      date: "November 15",
+      name: "RESSACS-2016",
+      description: "Ecole Internationale RESeaux de CapteurS et Applications Critiques de Surveillance",
+      date: "9-13 Mai, 2016",
       // If your event is free, just comment this line
-      price: "$100",
-      venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      //price: "$100",
+      venue: "IRD",
+      address: "32, Avenue Henri Varagnat",
+      city: "Bondy",
+      state: "France"
     },
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Register now!",
-        link: "http://eventick.com.br"
-    },
-
-    // "Fork me on GitHub", if you don't want this, just remove the forkButton property
-    forkButton: {
-        repository: "https://github.com/braziljs/conf-boilerplate"
+        text: "S'inscrire !",
+        link: ""
     },
 
     // Site info
     site: {
-      theme: "yellow-swan",
+      theme: "ird",
       url: "http://braziljs.github.io/conf-boilerplate/",
-      googleanalytics: "UA-33656081-1"
+        googleanalytics: "UA-9711668-1"
     },
 
     // Active sections on the website
@@ -52,130 +47,107 @@ module.exports = {
 
     // Labels which you can translate to other languages
     labels: {
-      about: "About",
-      location: "Location",
-      speakers: "Speakers",
-      schedule: "Schedule",
+      about: "Objectifs",
+      location: "Lieu",
+      speakers: "Conférenciers",
+      schedule: "Programme",
       sponsors: "Sponsors",
-      partners: "Partners",
+   //   partners: "Partners",
       contact: "Contact"
     },
 
     // The entire schedule
     schedule: [
       {
-        name: "Check-in / Breakfast",
-        time: "9h00"
+        name: "Accueil - Cafe",
+        time: "9 Mai 2016"
       },
       {
-        name: "Linus Torvalds",
+        name: "Serge Stinckwich",
         photo: "themes/yellow-swan/img/speaker.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Linux Foundation",
+        company: "Equipe UMMISCO, IRD/UPMC",
         link: {
-          href: "http://twitter.com/linus",
-          text: "@linus"
+          href: "http://www.doesnotunderstand.org/",
+          text: "page web"
         },
         presentation: {
-          title: "Digging into a Linux Kernel",
+          title: "Introduction aux plateformes Arduino et Raspberry Pi",
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "10h00"
+          time: "9 mai 2016"
         }
       },
       {
-        name: "Bill Gates",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Microsoft",
-        link: {
-          href: "http://github.com/billy95",
-          text: "@billy95"
-        },
+          name: "Bernard Pottier",
+          photo: "themes/ird/img/bernard-pottier.jpg",
+          bio: "Bernard Pottier est professeur d'informatique. Il a travaillé à la réalisation d'outils de conception d'architectures de traitement de 1990 à 2007, dans le cadre de plusieurs projets nationaux et internationaux. Depuis 2008, ses recherches sont tournées vers les réseaux de capteurs sans fil et les méthodes de conception d'applications sociétales et environnementales.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+        company: "Universite de Brest",
+          link: {
+              href:"http://wsn.univ-brest.fr/pottier/",
+              text:"Page web"
+          },
         presentation: {
-          title: "Introducing Windows 12",
+          title: "Title ?",
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "11h00"
+          time: "10 mai 2016"
         }
       },
       {
-        name: "Lunch",
-        time: "12h00"
-      },
-      {
-        name: "Chuck Norris",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Delta Command",
-        link: {
-          href: "http://twitter.com/littlechuck",
-          text: "@littlechuck"
+          name: "Cong Duc Pham",
+          photo: "themes/ird/img/congduc-pham.jpg",
+          bio: "Congduc Pham est professeur d’informatique à l’Université de Pau et Pays de l’Adour. Ses domaines de recherche sont les réseaux de communication et la qualité de service.  Depuis plusieurs années, il s’intéresse aux réseaux de capteurs sans-fils et aux applications critiques de surveillance.",
+          company: "Université de Pau",
+          link: {
+              href: "http://web.univ-pau.fr/~cpham/",
+          text: "Page web"
         },
         presentation: {
-          title: "How to kill a elephant with one finger",
+          title: "Title ?",
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "13h00"
-        }
-      },
-      {
-        name: "Steve Jobs",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
-        link: {
-          href: "http://github.com/stevie",
-          text: "@stevie"
-        },
-        presentation: {
-          title: "Presenting iPad",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "14h00"
-        }
-      },
-      {
-        name: "Coffee-break",
-        time: "15h00"
-      },
-      {
-        name: "Mark Zuckerberg",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Facebook",
-        link: {
-          href: "http://twitter.com/zuck",
-          text: "@zuck"
-        },
-        presentation: {
-          title: "Revealing Facebook Secrets",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "16h00"
-        }
-      },
-      {
-        name: "Steve Wozniak",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
-        link: {
-          href: "http://twitter.com/woz",
-          text: "@woz"
-        },
-        presentation: {
-          title: "Why do I prefer Android over iPhone",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "17h00"
+          time: "11 mai 2016"
         }
       }
     ],
 
     // List of Sponsors
-    sponsors: [
-      {
-        name: "Eventick",
-        logo: "themes/yellow-swan/img/sponsor.png",
-        url: "http://eventick.com.br"
-      }
-    ],
-
+      sponsors: [
+          {
+              name: "IRD",
+              logo: "themes/ird/img/logo-ird.png",
+              url: "http://www.ird.fr/"
+          },
+          {
+              name: "UBO",
+              logo: "themes/ird/img/ubo-logo.jpg",
+              url: "http://www.univ-brest.fr/"
+          },
+          {
+              name:"RNSC",
+              logo: "http://www.doesnotunderstand.org/images/logo-RNSC-small-72dpi.png",
+              url:"http://www.doesnotunderstand.org/public/CAPFLEXITE"
+          },
+          {
+              name: "UMMISCO",
+              logo: "themes/ird/img/UMMISCO-logo.jpg",
+              url:"http://www.ummisco.ird.fr/"
+          },
+          {
+              name: "Lab-STICC",
+              logo: "themes/ird/img/labsticc-logo.gif",
+              url: "http://labsticc.fr/"
+          },
+          {
+              name: "DSI IRD",
+              logo: "themes/ird/img/DSI-logo.png",
+              url: "https://www.ird.fr/dsi/"
+          },
+          {
+              name: "LIUPPA/T2I",
+              logo: "themes/ird/img/LIUPPA-T2I.jpg",
+              url: "http://liuppa.univ-pau.fr/"
+          }
+      ],
+  
     // List of Partners
     partners: [
       {
