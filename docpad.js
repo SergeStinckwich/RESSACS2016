@@ -60,7 +60,7 @@ module.exports = {
     schedule: [
       {
         name: "Serge Stinckwich",
-        photo: "themes/ird/img/serge-stinckwich.jpeg",
+          photo: "themes/ird/img/serge-stinckwich.jpeg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
         company: "Equipe UMMISCO, IRD/UPMC",
         link: {
