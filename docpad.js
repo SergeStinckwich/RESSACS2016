@@ -27,7 +27,7 @@ module.exports = {
 
     // Site info
     site: {
-      theme: "yellow-swan",
+      theme: "meetus",
       url: "http://braziljs.github.io/conf-boilerplate/",
         googleanalytics: "UA-9711668-1"
     },
@@ -49,7 +49,7 @@ module.exports = {
     labels: {
       about: "Objectifs",
       location: "Lieu",
-      speakers: "Conférenciers",
+      speakers: "Formateurs",
       schedule: "Programme",
       sponsors: "Sponsors",
    //   partners: "Partners",
@@ -76,7 +76,7 @@ module.exports = {
       {
           name: "Bernard Pottier",
           photo: "themes/ird/img/bernard-pottier.jpg",
-          bio: "Bernard Pottier est professeur d'informatique. Il a travaillé à la réalisation d'outils de conception d'architectures de traitement de 1990 à 2007, dans le cadre de plusieurs projets nationaux et internationaux. Depuis 2008, ses recherches sont tournées vers les réseaux de capteurs sans fil et les méthodes de conception d'applications sociétales et environnementales.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          bio: "Bernard Pottier est professeur d'informatique. Il a travaillé à la réalisation d'outils de conception d'architectures de traitement de 1990 à 2007, dans le cadre de plusieurs projets nationaux et internationaux. Depuis 2008, ses recherches sont tournées vers les réseaux de capteurs sans fil et les méthodes de conception d'applications sociétales et environnementales.",
         company: "Universite de Brest",
           link: {
               href:"http://wsn.univ-brest.fr/pottier/",
