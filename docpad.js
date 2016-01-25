@@ -150,11 +150,11 @@ module.exports = {
   
     // List of Partners
     partners: [
-      {
-        name: "BrazilJS",
-        logo: "themes/yellow-swan/img/partner.png",
-        url: "http://braziljs.org"
-      }
+    //  {
+    //    name: "BrazilJS",
+    //    logo: "themes/yellow-swan/img/partner.png",
+    //    url: "http://braziljs.org"
+    //  }
     ],
 
     // Theme path
