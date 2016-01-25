@@ -27,7 +27,7 @@ module.exports = {
 
     // Site info
     site: {
-      theme: "ird",
+      theme: "yellow-swan",
       url: "http://braziljs.github.io/conf-boilerplate/",
         googleanalytics: "UA-9711668-1"
     },
@@ -58,10 +58,6 @@ module.exports = {
 
     // The entire schedule
     schedule: [
-      {
-        name: "Accueil - Cafe",
-        time: "9 Mai 2016"
-      },
       {
         name: "Serge Stinckwich",
         photo: "themes/yellow-swan/img/speaker.jpg",
@@ -112,6 +108,11 @@ module.exports = {
     // List of Sponsors
       sponsors: [
           {
+              name: "Sorbonne Universite",
+              logo: "themes/ird/img/logo-su.png",
+              url: "http://www.sorbonne-universites.fr/"
+          },          
+          {
               name: "IRD",
               logo: "themes/ird/img/logo-ird.png",
               url: "http://www.ird.fr/"
@@ -122,11 +123,6 @@ module.exports = {
               url: "http://www.univ-brest.fr/"
           },
           {
-              name:"RNSC",
-              logo: "http://www.doesnotunderstand.org/images/logo-RNSC-small-72dpi.png",
-              url:"http://www.doesnotunderstand.org/public/CAPFLEXITE"
-          },
-          {
               name: "UMMISCO",
               logo: "themes/ird/img/UMMISCO-logo.jpg",
               url:"http://www.ummisco.ird.fr/"
@@ -135,11 +131,6 @@ module.exports = {
               name: "Lab-STICC",
               logo: "themes/ird/img/labsticc-logo.gif",
               url: "http://labsticc.fr/"
-          },
-          {
-              name: "DSI IRD",
-              logo: "themes/ird/img/DSI-logo.png",
-              url: "https://www.ird.fr/dsi/"
           },
           {
               name: "LIUPPA/T2I",
