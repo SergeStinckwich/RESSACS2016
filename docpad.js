@@ -95,16 +95,16 @@ module.exports = {
           company: "Université de Pau",
           link: {
               href: "http://web.univ-pau.fr/~cpham/",
-          text: "Page web"
-        },
-        presentation: {
-          title: "Title ?",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "11 mai 2016"
-        }
+              text: "Page web"
+          },
+          presentation: {
+              title: "Communications dans un réseau de capteurs",
+              description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+              time: "11 mai 2016"
+          }
       }
     ],
-
+      
     // List of Sponsors
       sponsors: [
           {
