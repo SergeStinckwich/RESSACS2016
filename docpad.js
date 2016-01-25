@@ -65,7 +65,7 @@ module.exports = {
         company: "Equipe UMMISCO, IRD/UPMC",
         link: {
           href: "http://www.doesnotunderstand.org/",
-          text: "page web"
+          text: "Page web"
         },
         presentation: {
           title: "Introduction aux plateformes Arduino et Raspberry Pi",
@@ -108,7 +108,7 @@ module.exports = {
     // List of Sponsors
       sponsors: [
           {
-              name: "Sorbonne Universite",
+              name: "Sorbonne Université",
               logo: "themes/ird/img/logo-su.png",
               url: "http://www.sorbonne-universites.fr/"
           },          

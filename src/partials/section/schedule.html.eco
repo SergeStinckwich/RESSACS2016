@@ -1,5 +1,5 @@
 <h2 class="section-title"><%= @labels['schedule'] %></h2>
-<p>Le programme est en cours de consitution.</p>
+<p>Le programme est en cours de constitution (contacter Serge dot Stinckwich at upmc dot fr pour en savoir plus).</p>
 <div class="schedule-tbl">
   <table>
     <thead>
