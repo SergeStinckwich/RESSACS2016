@@ -22,7 +22,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "S'inscrire !",
-        link: ""
+        link: "https://docs.google.com/forms/d/1ZpPgzjm5feiQGqnHm0LfrF-lxi272-kXJMd_ogxyBJ8/viewform"
     },
 
     // Site info
