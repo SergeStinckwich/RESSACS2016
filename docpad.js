@@ -83,7 +83,7 @@ module.exports = {
               text:"Page web"
           },
         presentation: {
-          title: "Title ?",
+          title: "Title à confirmer",
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
           time: "10 mai 2016"
         }
@@ -98,20 +98,20 @@ module.exports = {
               text: "Page web"
           },
           presentation: {
-              title: "Communications dans un réseau de capteurs",
-              description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+              title: "Technologies Long-Range pour Réseaux de capteurs et Internet des Objets",
+              description: "It is widely accepted that the Era of IoT can potentially connect billions of sensors, devices, equipment, systems, etc. In turn, the challenge is about driving business outcomes, consumer benefits, and the creation of new value. While benefits of IoT are clearly stated for increased process efficiency through automation & optimization, the deployment of such devices in a large scale is still held back by technical challenges. However, there are a number of small revolutions that are rapidly turning IoT into reality. In this presentation we will present how new contributions in the domain of hardware, communication, data storage and data-processing definitely make the IoT paradigm to happen with an unpreceding level of flexibility and cost effective implementations. Regarding communications, we will particularly present Semtech's LoRa radios and how gateways and end-devices can be built from off-the-shelves components for low-cost, long-range and ad-hoc Internet of Things deployment.",
               time: "11 mai 2016"
           }
       }
     ],
-      
+
     // List of Sponsors
       sponsors: [
           {
               name: "Sorbonne Université",
               logo: "themes/ird/img/logo-su.png",
               url: "http://www.sorbonne-universites.fr/"
-          },          
+          },
           {
               name: "IRD",
               logo: "themes/ird/img/logo-ird.png",
@@ -138,7 +138,7 @@ module.exports = {
               url: "http://liuppa.univ-pau.fr/"
           }
       ],
-  
+
     // List of Partners
     partners: [
     //  {
