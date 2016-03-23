@@ -59,41 +59,39 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
-        name: "Serge Stinckwich",
+          name: "Serge Stinckwich",
           photo: "themes/ird/img/serge-stinckwich.jpeg",
-        bio: "Serge Stinckwich est enseignant chercheur dans l'équipe UMMISCO.",
-        company: "UMMISCO, IRD/UPMC",
-        link: {
-          href: "http://www.doesnotunderstand.org/",
-          text: "Page web"
-        },
-        presentation: {
-          title: "Introduction aux plateformes Arduino et Raspberry Pi",
-            description: "Introduction aux outils logicles et matériels de base des plateformes Arduino et Raspberry Pi",
-          time: "9 mai 2016"
-        }
+          bio: "Serge Stinckwich est enseignant chercheur dans l'équipe UMMISCO.",
+          company: "UMMISCO, IRD/UPMC",
+          link: {
+              href: "http://www.doesnotunderstand.org/",
+              text: "Page web"
+          },
+          presentation: {
+              title: "Introduction aux plateformes Arduino et Raspberry Pi",
+              description: "Introduction aux outils logicles et matériels de base des plateformes Arduino et Raspberry Pi",
+              time: "9 mai 2016"
+          }
       },
       {
           name: "Bernard Pottier",
           photo: "themes/ird/img/bernard-pottier.jpg",
           bio: "Bernard Pottier est professeur d'informatique. Il a travaillé à la réalisation d'outils de conception d'architectures de traitement de 1990 à 2007, dans le cadre de plusieurs projets nationaux et internationaux. Depuis 2008, ses recherches sont tournées vers les réseaux de capteurs sans fil et les méthodes de conception d'applications sociétales et environnementales.",
-        company: "Labsticc, Université de Brest",
+          company: "Labsticc, Université de Brest",
           link: {
               href:"http://wsn.univ-brest.fr/pottier/",
               text:"Page web"
           },
-        presentation: {
-          title: "Modèles physiques, simulation et observation",
-          description: "Les réseaux de capteurs (RdC) réalisent une observation distribuée de grandeurs physiques. Ce sont des outils de mesure complexes réalisant un échantillonnage. A ce titre, la chaine d'acquisition inclut des mesures locales, la synthèse de diagnostics distribués, l'alimentation de bases de connaissances. Les fréquences d'acquisition, les délais de décision constituent un élément de variabilité du procédé., les échelles des applications allant du minuscule à l'échelle continentale.
-Nous montrons une méthode d'étude de déploiements centrée sur le processus observé, à une échelle géographique moyenne. Des outils permettent de centrer l'observation sur une zone particulière, choisie sur des cartes ou des photos. Cette zone est segmentée pour former des systèmes cellulaires en vue de simulations. Nous montrons comment les mesures des RdC et des données externes (météo, élévations) sont intégrées dans ces systèmes, et les bénéfices qui peuvent
-en découler pour la conception des liens radio (ligne de vue) et l'adéquation entre le RdC et le processus observé. TP sur les outils LabSTICC.",
-          time: "10 mai 2016"
-        }
+          presentation: {
+              title: "Modèles physiques, simulation et observation",
+              description: "Les réseaux de capteurs (RdC) réalisent une observation distribuée de grandeurs physiques. Ce sont des outils de mesure complexes réalisant un échantillonnage. A ce titre, la chaine d'acquisition inclut des mesures locales, la synthèse de diagnostics distribués, l'alimentation de bases de connaissances. Les fréquences d'acquisition, les délais de décision constituent un élément de variabilité du procédé., les échelles des applications allant du minuscule à l'échelle continentale. Nous montrons une méthode d'étude de déploiements centrée sur le processus observé, à une échelle géographique moyenne. Des outils permettent de centrer l'observation sur une zone particulière, choisie sur des cartes ou des photos. Cette zone est segmentée pour former des systèmes cellulaires en vue de simulations. Nous montrons comment les mesures des RdC et des données externes (météo, élévations) sont intégrées dans ces systèmes, et les bénéfices qui peuvent en découler pour la conception des liens radio (ligne de vue) et l'adéquation entre le RdC et le processus observé. TP sur les outils LabSTICC.",
+              time: "10 mai 2016"
+          }
       },
-      {
-          name: "Cong Duc Pham",
-          photo: "themes/ird/img/congduc-pham.jpg",
-          bio: "Congduc Pham est professeur d’informatique à l’Université de Pau et Pays de l’Adour. Ses domaines de recherche sont les réseaux de communication et la qualité de service.  Depuis plusieurs années, il s’intéresse aux réseaux de capteurs sans-fils et aux applications critiques de surveillance.",
+        {
+            name: "Cong Duc Pham",
+            photo: "themes/ird/img/congduc-pham.jpg",
+            bio: "Congduc Pham est professeur d’informatique à l’Université de Pau et Pays de l’Adour. Ses domaines de recherche sont les réseaux de communication et la qualité de service.  Depuis plusieurs années, il s’intéresse aux réseaux de capteurs sans-fils et aux applications critiques de surveillance.",
           company: "Université de Pau",
           link: {
               href: "http://web.univ-pau.fr/~cpham/",
