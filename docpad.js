@@ -107,16 +107,16 @@ en découler pour la conception des liens radio (ligne de vue) et l'adéquation 
       },
         {
             name: "Nicolas Marilleau",
-            photo: "",
-            bio: "",
+            photo: "themes/ird/img/congduc-pham.jpg",
+            bio: "TBA",
             company: "UMMISCO, IRD",
             link: {
-                href:"http://www.ummisco.fr/",
+                href: "http://www.ummisco.fr/",
                 text: "Page web"
 
             },
             presentation: {
-                title:"TBA"m
+                title: "TBA",
                 description: "TBA",
                 time: "12 mai 2016"
             }
