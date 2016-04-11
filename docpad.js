@@ -195,6 +195,11 @@ module.exports = {
               url: "http://www.ird.fr/"
           },
           {
+              name: "WAZIUP",
+              logo: "themes/ird/img/waziup-logo.png",
+              url: "https://www.create-net.org/news/waziup-first-opensource-platform-internet-things-and-big-data-africa"
+          },
+          {
               name: "UBO",
               logo: "themes/ird/img/ubo-logo.jpg",
               url: "http://www.univ-brest.fr/"
