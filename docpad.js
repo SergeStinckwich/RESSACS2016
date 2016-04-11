@@ -149,6 +149,36 @@ module.exports = {
                 description: "TBA",
                 time: "12 mai 2016"
             }
+        },
+        {
+            name: "Christian Simon",
+            photo: "themes/ird/img/speaker.jpg",
+            bio: "TBA",
+            company: "UPMC",
+            link: {
+                href: "http://www.pmclab.fr/",
+                text: "Page web"
+            },
+            presentation: {
+                title: "FabLab et Capteurs",
+                description: "TBA",
+                time: "12 mai 2016"
+            }
+        },
+        {
+            name: "Diane Tchuani Tchakonte",
+            photo: "themes/ird/img/speaker.jpg",
+            bio: "TBA",
+            company: "Université de Yaoundé I",
+            link: {
+                href: "",
+                text: "Page web"
+            },
+            presentation: {
+                title: "Minimisation de la consommation d'énergie des réseaux de capteurs sans fil dans les applications de couverture de cibles",
+                description: "TBA",
+                time: "12 mai 2016"
+            }
         }
     ],
 
