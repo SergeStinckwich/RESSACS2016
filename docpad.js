@@ -105,7 +105,7 @@ module.exports = {
       },
         {
             name: "Nicolas Marilleau",
-            photo: "themes/ird/img/speaker.jpg",
+            photo: "themes/ird/img/speaker.png",
             bio: "TBA",
             company: "UMMISCO, IRD",
             link: {
@@ -121,7 +121,7 @@ module.exports = {
         },
         {
             name: "Perrine Branchet",
-            photo: "themes/ird/img/speaker.jpg",
+            photo: "themes/ird/img/speaker.png",
             bio: "TBA",
             company: "LGEI- Eau, Mines d'Ales",
             link: {
@@ -137,7 +137,7 @@ module.exports = {
         },
         {
             name: "Bertrand Granado",
-            photo: "themes/ird/img/speaker.jpg",
+            photo: "themes/ird/img/speaker.png",
             bio: "TBA",
             company: "LIP6, UPMC",
             link: {
@@ -152,7 +152,7 @@ module.exports = {
         },
         {
             name: "Christian Simon",
-            photo: "themes/ird/img/speaker.jpg",
+            photo: "themes/ird/img/speaker.png",
             bio: "TBA",
             company: "UPMC",
             link: {
@@ -167,7 +167,7 @@ module.exports = {
         },
         {
             name: "Diane Tchuani Tchakonte",
-            photo: "themes/ird/img/speaker.jpg",
+            photo: "themes/ird/img/speaker.png",
             bio: "TBA",
             company: "Université de Yaoundé I",
             link: {
@@ -179,7 +179,23 @@ module.exports = {
                 description: "TBA",
                 time: "12 mai 2016"
             }
+        },
+        {
+            name: "Moussa Diallo",
+            photo: "themes/ird/img/speaker.png",
+            bio: "TBA",
+            company: "UCAD, Sénégal",
+            link: {
+                href: "",
+                text: "Page web"
+            },
+            presentation: {
+                title: "Station Météo Autonome et Connectée",
+                description: "TBA",
+                time: "12 mai 2016"
+            }
         }
+
     ],
 
     // List of Sponsors
