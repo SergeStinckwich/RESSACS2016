@@ -68,7 +68,7 @@ module.exports = {
               text: "Page web"
           },
           presentation: {
-              title: "Introduction aux plateformes Arduino et Raspberry Pi",
+              title: "Tutoriel 1 - Introduction aux plateformes Arduino et Raspberry Pi",
               description: "Introduction aux outils logicles et matériels de base des plateformes Arduino et Raspberry Pi",
               time: "9 mai 2016"
           }
@@ -83,7 +83,7 @@ module.exports = {
               text:"Page web"
           },
           presentation: {
-              title: "Modèles physiques, simulation et observation",
+              title: "Tutoriel 2 - Modèles physiques, simulation et observation",
               description: "Les réseaux de capteurs (RdC) réalisent une observation distribuée de grandeurs physiques. Ce sont des outils de mesure complexes réalisant un échantillonnage. A ce titre, la chaine d'acquisition inclut des mesures locales, la synthèse de diagnostics distribués, l'alimentation de bases de connaissances. Les fréquences d'acquisition, les délais de décision constituent un élément de variabilité du procédé., les échelles des applications allant du minuscule à l'échelle continentale. Nous montrons une méthode d'étude de déploiements centrée sur le processus observé, à une échelle géographique moyenne. Des outils permettent de centrer l'observation sur une zone particulière, choisie sur des cartes ou des photos. Cette zone est segmentée pour former des systèmes cellulaires en vue de simulations. Nous montrons comment les mesures des RdC et des données externes (météo, élévations) sont intégrées dans ces systèmes, et les bénéfices qui peuvent en découler pour la conception des liens radio (ligne de vue) et l'adéquation entre le RdC et le processus observé. TP sur les outils LabSTICC.",
               time: "9 mai 2016"
           }
@@ -98,14 +98,14 @@ module.exports = {
               text: "Page web"
           },
           presentation: {
-              title: "Technologies Long-Range pour Réseaux de capteurs et Internet des Objets",
+              title: "Tutoriel 3 - Technologies Long-Range pour Réseaux de capteurs et Internet des Objets",
               description: "It is widely accepted that the Era of IoT can potentially connect billions of sensors, devices, equipment, systems, etc. In turn, the challenge is about driving business outcomes, consumer benefits, and the creation of new value. While benefits of IoT are clearly stated for increased process efficiency through automation & optimization, the deployment of such devices in a large scale is still held back by technical challenges. However, there are a number of small revolutions that are rapidly turning IoT into reality. In this presentation we will present how new contributions in the domain of hardware, communication, data storage and data-processing definitely make the IoT paradigm to happen with an unpreceding level of flexibility and cost effective implementations. Regarding communications, we will particularly present Semtech's LoRa radios and how gateways and end-devices can be built from off-the-shelves components for low-cost, long-range and ad-hoc Internet of Things deployment.",
               time: "10 mai 2016"
           }
       },
         {
             name: "Nicolas Marilleau",
-            photo: "themes/ird/img/congduc-pham.jpg",
+            photo: "themes/ird/img/speaker.jpg",
             bio: "TBA",
             company: "UMMISCO, IRD",
             link: {
@@ -114,14 +114,14 @@ module.exports = {
 
             },
             presentation: {
-                title: "TBA",
+                title: "Tutorial 4 - Titre à confirmer",
                 description: "TBA",
                 time: "11 mai 2016"
             }
         },
         {
             name: "Perrine Branchet",
-            photo: "themes/ird/img/congduc-pham.jpg",
+            photo: "themes/ird/img/speaker.jpg",
             bio: "TBA",
             company: "LGEI- Eau, Mines d'Ales",
             link: {
@@ -131,6 +131,21 @@ module.exports = {
             },
             presentation: {
                 title: "Techniques chimiques et biologiques pour un diagnostic de la qualité de la ressource en eau et des impacts environnementaux et sanitaires associés. Cas du bassin versant urbanisé de la Méfou (Centre Cameroun)",
+                description: "La capitale du Cameroun, Yaoundé, voit sa démographie et son emprise urbaine croître de façon très  importante depuis quelques décennies. Cette expansion urbaine exerce une pression sur la ressource en eau du bassin versant de la Méfou, d’autant plus que les infrastructures hydrauliques et d’assainissement sont inadaptées ou manquantes tandis que les surfaces sont de plus en plus imperméabilisées, ce qui contribue aux inondations urbaines et au transfert des polluants issus des activités domestiques, industrielles et agricoles vers les cours d’eau.",
+                time: "12 mai 2016"
+            }
+        },
+        {
+            name: "Bertrand Granado",
+            photo: "themes/ird/img/speaker.jpg",
+            bio: "TBA",
+            company: "LIP6, UPMC",
+            link: {
+                href: "http://bertrand.granado.free.fr/",
+                text: "Page web"
+            },
+            presentation: {
+                title: "Capteurs et médecine",
                 description: "TBA",
                 time: "12 mai 2016"
             }
