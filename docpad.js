@@ -106,7 +106,7 @@ module.exports = {
         {
             name: "Nicolas Marilleau",
             photo: "themes/ird/img/speaker.png",
-            bio: "TBA",
+            bio: "Nicolas Marilleau est ingénieur de recherche à l’UMI 209 UMMISCO de l’IRD (Institut de Recherche pour le Développement) depuis 2006, chercheur associé (depuis 2010) à Femto-ST (Université de Franche-Comté). Ses recherches s’inscrivent dans les domaines des systèmes répartis, de la collaboration et de la modélisation-simulation des systèmes  complexes tels qu’ils sont abordés en écologie, en géographie ou robotique. Elles présentent l’originalité de considérer à la fois la distribution des compétences et la distribution du calcul. L’enjeu est de développer des concepts et outils afin de rendre accessible les procédés de modélisation-simulation pour une communauté la plus large possible de scientifiques et d’opérationnels.",
             company: "UMMISCO, IRD",
             link: {
                 href: "http://www.ummisco.fr/",
@@ -114,8 +114,8 @@ module.exports = {
 
             },
             presentation: {
-                title: "Tutorial 4 - Titre à confirmer",
-                description: "TBA",
+                title: "Tutorial 4 - Introduire des données de capteurs mobiles dans la simulation",
+                description: "La simulation de phénomènes complexes requière de plus en plus l’introduction de données de terrain en vue de reproduire plus fidèlement les dynamiques observées et d’évaluer des scénarios répondant aux problématiques de terrain (pollution, secours, congestion, etc). L’enjeu de ce cours sera justement de proposer une chaîne logicielle allant du capteur mobile au simulateur aux travers de Cours et de Travaux Pratiques. Dans un premier temps, nous verrons comment connecter un capteur à un simulateur à base d’agent sous couvert d’un exemple concret. Pour cela nous utiliserons la plate-forme GAMA et la technologie Raspberry. Ensuite nous nous familiariserons aux  technologies et outils utilisés pour les drones. Nous les manipulerons, et si le temps le permet, nous réaliserons un TP en extérieur portant sur les capteurs mobiles.",
                 time: "11 mai 2016"
             }
         },
@@ -137,7 +137,7 @@ module.exports = {
         },
         {
             name: "Bertrand Granado",
-            photo: "themes/ird/img/speaker.png",
+            photo: "themes/ird/img/granado.png",
             bio: "TBA",
             company: "LIP6, UPMC",
             link: {
@@ -145,8 +145,8 @@ module.exports = {
                 text: "Page web"
             },
             presentation: {
-                title: "Capteurs et médecine",
-                description: "TBA",
+                title: "Systèmes embarqués  bio-médicaux: le cas des capsules vidéo-endoscopique",
+                description: "Depuis que le pacemaker a vu le jour à la fin des années 1950, les systèmes électroniques bio-médicaux n’ont eu de cesse de se développer à la fois pour réparer l’homme mais aussi pour accroître ses capacités. Les capsules vidéo-endoscopiques sont apparues au débuts des années 2000 et font partie de ces systèmes électroniques. Elles sont à la fois des instruments de mesures et des mini robots prêt à réaliser des prélèvements à l’intérieur du tube digestif. Nous présenterons ici les travaux de recherches menés dans le domaine spécifique des capsules vidéo endoscopiques au niveau international et au sein de l’équipe Syel du LIP6 de l’UPMC et nous tenterons de voir si un jour nous aurons un gastro-enterologue à l’intérieur de nos intestins.",
                 time: "12 mai 2016"
             }
         },
@@ -167,7 +167,7 @@ module.exports = {
         },
         {
             name: "Diane Tchuani Tchakonte",
-            photo: "themes/ird/img/speaker.png",
+            photo: "themes/ird/img/diane-tchuani.jpg",
             bio: "TBA",
             company: "Université de Yaoundé I",
             link: {
@@ -182,8 +182,8 @@ module.exports = {
         },
         {
             name: "Moussa Diallo",
-            photo: "themes/ird/img/speaker.png",
-            bio: "TBA",
+            photo: "themes/ird/img/moussa-diallo.png",
+            bio: "Moussa DIALLO est né à THIES, Sénégal. Il a obtenu un diplôme d’ingénieurs en Electronique Télécommunications et Instrumentation à l’ENSI de Limoges (France) en 2007, et un Master Recherche en circuit, système, micro et nanotechnologies pour les télécommunications HF et Optiques à l’Université de limoges en 2007. En octobre 2010, il a obtenu un doctorat en Télécommunications à l’INSA de Rennes (France). Il est actuellement enseignant chercheur  à l'ESP. Ses thématiques de recherche portent sur le multiplexage spatial, l’estimation de canal et feedback dans les systèmes de transmission multi antennes MIMO, les réseaux de capteurs, la géolocalisation et le prototypage.",
             company: "UCAD, Sénégal",
             link: {
                 href: "",
@@ -191,7 +191,7 @@ module.exports = {
             },
             presentation: {
                 title: "Station Météo Autonome et Connectée",
-                description: "TBA",
+                description: "Vu les moyens de télécommunications limités dans notre sous-région, il est coûteux et difficile de transmettre des données de n’importe où. En effet, la plupart des stations de mesure du Sénégal ne sont pas connectées. Le déplacement d’une personne est nécessaire pour prélever les paramètres et la transmission s'effectue souvent par email ou par téléphone.  Pour automatiser la surveillance environnementale de jour comme de nuit, nous avons mise en œuvre une station autonome en énergie, connectée et pouvant embarquer plusieurs capteurs. La station est adaptée au contexte local et peut être déployée partout au Sénégal.",
                 time: "12 mai 2016"
             }
         }
