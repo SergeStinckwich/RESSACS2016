@@ -194,8 +194,22 @@ module.exports = {
                 description: "Vu les moyens de télécommunications limités dans notre sous-région, il est coûteux et difficile de transmettre des données de n’importe où. En effet, la plupart des stations de mesure du Sénégal ne sont pas connectées. Le déplacement d’une personne est nécessaire pour prélever les paramètres et la transmission s'effectue souvent par email ou par téléphone.  Pour automatiser la surveillance environnementale de jour comme de nuit, nous avons mise en œuvre une station autonome en énergie, connectée et pouvant embarquer plusieurs capteurs. La station est adaptée au contexte local et peut être déployée partout au Sénégal.",
                 time: "12 mai 2016"
             }
+        },
+        {
+            name: "Nguyen Dai Tho",
+            photo: "themes/ird/img/speaker.png",
+            bio: " Dai Tho NGUYEN a obtenu un Doctorat en Informatique à l’Université de Technologie de Compiègne, France. Il est actuellement enseignant-chercheur à l’Université de l’Ingénierie et de la Technologie (une université membre de l’Université Nationale du Vietnam à Hanoi), où il dirige le Laboratoire de Sécurité de l’Information. Il intervient dans plusieurs instituts universitaires au Vietnam comme l’Institut Francophone International, l’Institut des Techniques Cryptographiques et l’Institut de la Sécurité Populaire. Il est également associé à l’UMI UMMISCO 209 de l’IRD. Ses domaines de recherche sont la sécurité des réseaux, les réseaux sans fil, les systèmes pair-à-pair, et l’algorithmique distribuée.",
+            company: "VNU, Vietnam",
+            link: {
+                href: "",
+                text: "Page web"
+            },
+            presentation: {
+                title: "Détection de feu d’appartement  en utilisant un réseau de capteurs",
+                description: "Nous proposons un algorithme pour la détection précoce de feu d’appartement basée sur les données de température et de lumière collectées par un réseau de capteurs sans fil. La raison pour l’utilisation de capteurs est due à leurs faibles prix et à leur grande disponibilité. L’originalité de l’algorithme proposé réside dans le changement automatique de seuil pour la détection de température excessive et l’utilisation des fluctuations de lumière comme indicateur de feu. Nous avons testé notre algorithme sur de vrais capteurs connectés en réseau. Les résultats expérimentaux montrent qu’il est en général plus efficace que les autres méthodes typiques d’utilisation de réseaux de capteurs pour la détection de feu (en termes d’équilibre entre le délai de détection, le taux de fausses détections, et le taux d’omissions).",
+                time: "12 mai 2016"
+            }
         }
-
     ],
 
     // List of Sponsors
