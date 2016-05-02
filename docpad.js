@@ -153,15 +153,15 @@ module.exports = {
         {
             name: "Christian Simon",
             photo: "themes/ird/img/speaker.png",
-            bio: "TBA",
+            bio: "Christian Simon est maître de conférences en Chimie à l’UPMC. Après 10 ans consacrés à la modélisation des liquides par dynamique moléculaire, il est en charge pendant 3 ans des questions de déchets radioactifs et de sûreté nucléaire au Ministère de l’Enseignement Supérieur et de la Recherche. C’est alors qu’il découvre le potentiel des sciences participatives pour l’environnement, appuyées sur les réseaux de FabLabs et Hackerspaces. Il initie donc le projet le FabLab de Sorbonne Universités (avec V. Dupuis). Depuis 2013, il mène le projet OpenGeiger, programme de science participative dédié à la mesure de la radioactivité ambiante.",
             company: "UPMC",
             link: {
                 href: "http://www.pmclab.fr/",
                 text: "Page web"
             },
             presentation: {
-                title: "FabLab et Capteurs",
-                description: "TBA",
+                title: "Fablabs et capteurs",
+                description: "Il existe diverses modalités de déploiement des réseaux de capteurs pour la mesure environnementale. L’approche des sciences participatives est particulièremet intéressante, car elle cherche à mettre sur pied simultanément les capteurs, le réseau, la communauté d’utilisateurs, de collecteurs de données et les développeurs. Le Réseau des FabLabs est un réseau mondial solidement établi d’ateliers de fabrication/prototypage numériques avec des outils, des méthodes et une culture partagée. Nous suggérons qu’utiliser les FabLabs comme lieu du co-développement des réseaux de capteurs peut accélérer la dissémination des initiatives de mesures environnementales.",
                 time: "12 mai 2016"
             }
         },
